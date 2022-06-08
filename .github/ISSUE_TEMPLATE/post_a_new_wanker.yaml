@@ -1,0 +1,23 @@
+name: Post A New Wanker
+description: I wanna post a new wanker
+title: "[New Wanker]: "
+labels:
+  - "Wanker"
+assignees:
+  - "WankersArchive"
+body:
+  - type: checkboxes
+    attributes:
+      label: Claim
+      options:
+        - label: I have evidence that someone is a wanker and I can confirm the accuracy of this information.
+          required: true
+  - type: markdown
+    attributes:
+      value: |
+        | Name | Location | Occupation | Affiliation | DateTime | Description | Materials |
+        | :--- | :------- | :--------- | :---------- | :------- | :---------- | :-------- |
+        |      |          |            |             |          |             |           |
+  - type: markdown
+    attributes:
+      value: "Please put your evidence here. Thank you very much for your sincere post."
