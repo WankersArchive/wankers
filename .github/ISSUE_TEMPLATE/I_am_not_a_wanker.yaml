@@ -12,9 +12,12 @@ body:
       options:
         - label: I have evidence that someone is NOT a wanker and I can confirm the accuracy of this information.
           required: true
-  - type: textarea
+  - type: input
     attributes:
       label: URL to the original post
   - type: markdown
     attributes:
       value: "Please put your evidence here. Thank you very much for your sincere post."
+  - type: textarea
+      attributes:
+        label: Contents
