@@ -19,5 +19,5 @@ body:
     attributes:
       value: "Please put your evidence here. Thank you very much for your sincere post."
   - type: textarea
-      attributes:
-        label: Contents
+    attributes:
+      label: Contents
