@@ -13,7 +13,7 @@ If you are a student/worker and your supervisor/mentor/boss squeeze you in extre
 
 | Name    | Location     | Occupation | Affiliation  | DateTime       | Description                         | Materials                |
 | :------ | :----------- | :--------- | :----------- | :------------- | :---------------------------------- | :----------------------- |
-| Example | City, Contry | professor  | A University | Jan. 1st, 2022 | The professor sexually harassed me. | [A link to issue post]() |
+| Example | City, Contry | professor  | A University | Jan. 1st, 2022 | The professor sexually harassed me. | [A link to issue post](./) |
 
 
 ## 📬 Contribution
@@ -23,16 +23,14 @@ If you are a student/worker and your supervisor/mentor/boss squeeze you in extre
 If you are a newbie on GitHub usage, just post all the materials on the [issue area](https://github.com/WankersArchive/wankers/issues).
 
 If you are familiar to GitHub usage:
-
 1. Open an [issue](https://github.com/WankersArchive/wankers/issues) and list the materials
 2. Fork this repo to your namespace
-3. Make changes to the [List](./#list)
+3. Make changes to the [List](#-list)
 4. Create pull requests to the main repo
 
 ## 🔊 Take Down
 
 If you are posted to be a wanker by mistake:
-
 1. Prove it is a mistake in the original issue thread
 2. Open a new issue [Here](https://github.com/WankersArchive/wankers/issues) and post your evidence
 
