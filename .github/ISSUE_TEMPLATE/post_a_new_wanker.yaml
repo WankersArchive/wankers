@@ -12,12 +12,27 @@ body:
       options:
         - label: I have evidence that someone is a wanker and I can confirm the accuracy of this information.
           required: true
-  - type: markdown
+  - type: input
     attributes:
-      value: |
-        | Name | Location | Occupation | Affiliation | DateTime | Description | Materials |
-        | :--- | :------- | :--------- | :---------- | :------- | :---------- | :-------- |
-        |      |          |            |             |          |             |           |
+      label: Name
+  - type: input
+    attributes:
+      label: Location
+  - type: input
+    attributes:
+      label: Occupation
+  - type: input
+    attributes:
+      label: Affiliation
+  - type: input
+    attributes:
+      label: DateTime
+  - type: input
+    attributes:
+      label: Description
   - type: markdown
     attributes:
       value: "Please put your evidence here. Thank you very much for your sincere post."
+  - type: textarea
+    attributes:
+      label: Contents
